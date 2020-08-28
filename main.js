@@ -448,7 +448,7 @@ class HeaderComponent {
     }
 }
 HeaderComponent.ɵfac = function HeaderComponent_Factory(t) { return new (t || HeaderComponent)(); };
-HeaderComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: HeaderComponent, selectors: [["app-header"]], decls: 10, vars: 0, consts: [[1, "row", "justify-content-md-center"], [1, "navbar", "navbar-light"], ["href", "#", 1, "navbar-brand", "checking"], ["src", "assets/brand/bootstrap-solid.svg", "width", "30", "height", "30", "alt", "", 1, "d-inline-block", "align-top"], [1, "col-sm", "float-right"], [1, "container", 3, "click"], [1, "bar1"], [1, "bar2"], [1, "bar3"]], template: function HeaderComponent_Template(rf, ctx) { if (rf & 1) {
+HeaderComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: HeaderComponent, selectors: [["app-header"]], decls: 10, vars: 0, consts: [[1, "row", "justify-content-md-center"], [1, "navbar", "navbar-light"], ["href", "#", 1, "navbar-brand", "checking"], ["src", "/docs/4.0/assets/brand/bootstrap-solid.svg", "width", "30", "height", "30", "alt", "", 1, "d-inline-block", "align-top"], [1, "col-sm", "float-right"], [1, "container", 3, "click"], [1, "bar1"], [1, "bar2"], [1, "bar3"]], template: function HeaderComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "nav", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "a", 2);
