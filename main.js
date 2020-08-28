@@ -359,7 +359,7 @@ class GamesComponent {
     }
 }
 GamesComponent.ɵfac = function GamesComponent_Factory(t) { return new (t || GamesComponent)(); };
-GamesComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: GamesComponent, selectors: [["app-games"]], decls: 29, vars: 0, consts: [[1, "rounded"], [1, "row", "px-5", "mt-4", "rounded"], [1, "col-12", "ruler", "rounded"], [1, "row"], [1, "col-12", "px-5"], [1, "px-5", "mt-2", "rounded"], [1, "row", "px-5", "mt-1", "align-center"], [1, "col", "pl-2", "p-bottom-40"], [1, "card", "bgColor"], [1, "card-title", "ml-1"], ["src", "../../../assets/carrom.svg", 1, "svg-icon"], ["src", "../../../assets/sports_tennis-black-18dp.svg", 1, "svg-icon"], ["src", "../../../assets/cricket.svg", 1, "svg-icon"], ["src", "../../../assets/football.svg", 1, "svg-icon"], ["src", "../../../assets/ping-pong.svg", 1, "svg-icon"]], template: function GamesComponent_Template(rf, ctx) { if (rf & 1) {
+GamesComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: GamesComponent, selectors: [["app-games"]], decls: 29, vars: 0, consts: [[1, "rounded"], [1, "row", "px-5", "mt-4", "rounded"], [1, "col-12", "ruler", "rounded"], [1, "row"], [1, "col-12", "px-5"], [1, "px-5", "mt-2", "rounded"], [1, "row", "px-5", "mt-1", "align-center"], [1, "col", "pl-2", "p-bottom-40"], [1, "card", "bgColor"], [1, "card-title", "ml-1"], ["src", "assets/carrom.svg", 1, "svg-icon"], ["src", "assets/sports_tennis-black-18dp.svg", 1, "svg-icon"], ["src", "assets/cricket.svg", 1, "svg-icon"], ["src", "assets/football.svg", 1, "svg-icon"], ["src", "assets/ping-pong.svg", 1, "svg-icon"]], template: function GamesComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "div", 2);
@@ -448,7 +448,7 @@ class HeaderComponent {
     }
 }
 HeaderComponent.ɵfac = function HeaderComponent_Factory(t) { return new (t || HeaderComponent)(); };
-HeaderComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: HeaderComponent, selectors: [["app-header"]], decls: 10, vars: 0, consts: [[1, "row", "justify-content-md-center"], [1, "navbar", "navbar-light"], ["href", "#", 1, "navbar-brand", "checking"], ["src", "/docs/4.0/assets/brand/bootstrap-solid.svg", "width", "30", "height", "30", "alt", "", 1, "d-inline-block", "align-top"], [1, "col-sm", "float-right"], [1, "container", 3, "click"], [1, "bar1"], [1, "bar2"], [1, "bar3"]], template: function HeaderComponent_Template(rf, ctx) { if (rf & 1) {
+HeaderComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: HeaderComponent, selectors: [["app-header"]], decls: 10, vars: 0, consts: [[1, "row", "justify-content-md-center"], [1, "navbar", "navbar-light"], ["href", "#", 1, "navbar-brand", "checking"], ["src", "assets/brand/bootstrap-solid.svg", "width", "30", "height", "30", "alt", "", 1, "d-inline-block", "align-top"], [1, "col-sm", "float-right"], [1, "container", 3, "click"], [1, "bar1"], [1, "bar2"], [1, "bar3"]], template: function HeaderComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "nav", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "a", 2);
@@ -654,7 +654,7 @@ class PrintComponent {
     }
 }
 PrintComponent.ɵfac = function PrintComponent_Factory(t) { return new (t || PrintComponent)(); };
-PrintComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: PrintComponent, selectors: [["app-print"]], decls: 3, vars: 0, consts: [[1, "card-body", "border-0"], ["src", "../../../assets/printInc.PNG", 1, "img-fluid", "rounded", "print-bw"], ["src", "../../../assets/printCol.PNG", 1, "img-fluid", "rounded", "print-col"]], template: function PrintComponent_Template(rf, ctx) { if (rf & 1) {
+PrintComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: PrintComponent, selectors: [["app-print"]], decls: 3, vars: 0, consts: [[1, "card-body", "border-0"], ["src", "assets/printInc.PNG", 1, "img-fluid", "rounded", "print-bw"], ["src", "assets/printCol.PNG", 1, "img-fluid", "rounded", "print-col"]], template: function PrintComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "img", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "img", 2);
@@ -691,7 +691,7 @@ class ProfileComponent {
     }
 }
 ProfileComponent.ɵfac = function ProfileComponent_Factory(t) { return new (t || ProfileComponent)(); };
-ProfileComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ProfileComponent, selectors: [["app-profile"]], decls: 24, vars: 0, consts: [[1, "justify-content-md-center"], [1, "row", "profile-title"], [1, "col-2"], ["src", "../../../assets/profile.jfif", 1, "img-fluid", "rounded"], [1, "col-10"], [1, "card", "border-0"], [1, "card-body", "global-bg-color"], [1, "card-title"], [1, "card-text"], ["href", "#", 1, "fa", "fa-linkedin"], ["href", "#", 1, "fa", "fa-github"], ["href", "#", 1, "fa", "fa-twitter"], [1, "row", "profile-subtitle"], [1, "col"], [1, "card-body"], ["href", "#", 1, "btn", "global-bg-color"]], template: function ProfileComponent_Template(rf, ctx) { if (rf & 1) {
+ProfileComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ProfileComponent, selectors: [["app-profile"]], decls: 24, vars: 0, consts: [[1, "justify-content-md-center"], [1, "row", "profile-title"], [1, "col-2"], ["src", "assets/profile.jfif", 1, "img-fluid", "rounded"], [1, "col-10"], [1, "card", "border-0"], [1, "card-body", "global-bg-color"], [1, "card-title"], [1, "card-text"], ["href", "#", 1, "fa", "fa-linkedin"], ["href", "#", 1, "fa", "fa-github"], ["href", "#", 1, "fa", "fa-twitter"], [1, "row", "profile-subtitle"], [1, "col"], [1, "card-body"], ["href", "#", 1, "btn", "global-bg-color"]], template: function ProfileComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -914,7 +914,7 @@ class ResumeComponent {
     }
 }
 ResumeComponent.ɵfac = function ResumeComponent_Factory(t) { return new (t || ResumeComponent)(); };
-ResumeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ResumeComponent, selectors: [["app-resume"]], decls: 3, vars: 0, consts: [[1, "card-body", "border-0"], ["src", "../../../assets/interactiveBW.PNG", 1, "img-fluid", "rounded", "interactive-bw"], ["src", "../../../assets/interactiveCol.PNG", 1, "img-fluid", "rounded", "interactive-col"]], template: function ResumeComponent_Template(rf, ctx) { if (rf & 1) {
+ResumeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ResumeComponent, selectors: [["app-resume"]], decls: 3, vars: 0, consts: [[1, "card-body", "border-0"], ["src", "assets/interactiveBW.PNG", 1, "img-fluid", "rounded", "interactive-bw"], ["src", "assets/interactiveCol.PNG", 1, "img-fluid", "rounded", "interactive-col"]], template: function ResumeComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "img", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "img", 2);
