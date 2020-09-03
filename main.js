@@ -75,7 +75,7 @@ __webpack_require__.r(__webpack_exports__);
 
 class AppComponent {
     constructor() {
-        this.title = 'sks';
+        this.title = 'Saurabh Sunny Portfolio | sks.in';
     }
 }
 AppComponent.ɵfac = function AppComponent_Factory(t) { return new (t || AppComponent)(); };
@@ -460,7 +460,7 @@ GamesComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCom
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "div", 3);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "div", 4);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "h3");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6, "Games");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6, "Teacher's");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -794,7 +794,7 @@ class ProfileComponent {
     }
 }
 ProfileComponent.ɵfac = function ProfileComponent_Factory(t) { return new (t || ProfileComponent)(); };
-ProfileComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ProfileComponent, selectors: [["app-profile"]], decls: 33, vars: 0, consts: [[1, "justify-content-md-center"], [1, "row", "profile-title"], [1, "col-12", "col-md-2", "img-div"], ["src", "assets/profile.jfif", 1, "img-fluid", "rounded", "img-style"], [1, "col-12", "col-md-10"], [1, "card", "border-0"], [1, "card-body", "global-bg-color", "profile-detail"], [1, "card-title"], [1, "card-text", "tech-detail"], ["href", "#", 1, "fa", "fa-linkedin", "px-2"], ["href", "#", 1, "fa", "fa-github", "px-2"], ["href", "#", 1, "fa", "fa-twitter", "px-2"], ["href", "#", 1, "fa", "fa-instagram", "px-2"], ["href", "#", 1, "fa", "fa-facebook", "px-2"], ["href", "#", 1, "fa", "fa-codepen", "px-2"], ["href", "#", 1, "fa", "fa-quora", "px-2"], [1, "row", "profile-subtitle"], [1, "col"], [1, "card-body"], [1, "card-title", "align-left", "outline-dashed"], ["href", "#", 1, "btn", "global-bg-color"], [1, "fa", "fa-play"], [1, "card-text", "pt-0"], [1, "fa", "fa-star"]], template: function ProfileComponent_Template(rf, ctx) { if (rf & 1) {
+ProfileComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ProfileComponent, selectors: [["app-profile"]], decls: 33, vars: 0, consts: [[1, "justify-content-md-center"], [1, "row", "profile-title"], [1, "col-12", "col-md-2", "img-div"], ["src", "assets/profile.svg", 1, "img-fluid", "rounded", "img-style"], [1, "col-12", "col-md-10"], [1, "card", "border-0"], [1, "card-body", "global-bg-color", "profile-detail"], [1, "card-title"], [1, "card-text", "tech-detail"], ["href", "https://www.linkedin.com/in/saurabhksunny/", 1, "fa", "fa-linkedin", "px-2"], ["href", "https://github.com/skyup259", 1, "fa", "fa-github", "px-2"], ["href", "https://twitter.com/Kumar259Saurabh", 1, "fa", "fa-twitter", "px-2"], ["href", "http://instagram.com/saurabh_ksunny?igshid=1lm6ej4rqui8i", 1, "fa", "fa-instagram", "px-2"], ["href", "https://www.facebook.com/people/Saurabh-K-Sunny/100002708935041", 1, "fa", "fa-facebook", "px-2"], ["href", "#/", 1, "fa", "fa-codepen", "px-2"], ["href", "#/", 1, "fa", "fa-quora", "px-2"], [1, "row", "profile-subtitle"], [1, "col"], [1, "card-body"], [1, "card-title", "align-left", "outline-dashed"], ["href", "#", 1, "btn", "global-bg-color"], [1, "fa", "fa-play"], [1, "card-text", "pt-0"], [1, "fa", "fa-star"]], template: function ProfileComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
