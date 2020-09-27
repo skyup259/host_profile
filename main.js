@@ -932,7 +932,7 @@ class ProfileComponent {
     }
 }
 ProfileComponent.ɵfac = function ProfileComponent_Factory(t) { return new (t || ProfileComponent)(); };
-ProfileComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ProfileComponent, selectors: [["app-profile"]], decls: 33, vars: 0, consts: [[1, "justify-content-md-center"], [1, "row", "profile-title"], [1, "col-12", "col-md-2", "img-div"], ["src", "assets/profile.svg", 1, "img-fluid", "rounded", "img-style"], [1, "col-12", "col-md-10"], [1, "card", "border-0"], [1, "card-body", "global-bg-color", "profile-detail"], [1, "card-title"], [1, "card-text", "tech-detail"], ["href", "https://www.linkedin.com/in/saurabhksunny/", 1, "fa", "fa-linkedin", "px-2"], ["href", "https://github.com/skyup259", 1, "fa", "fa-github", "px-2"], ["href", "https://twitter.com/Kumar259Saurabh", 1, "fa", "fa-twitter", "px-2"], ["href", "http://instagram.com/saurabh_ksunny?igshid=1lm6ej4rqui8i", 1, "fa", "fa-instagram", "px-2"], ["href", "https://www.facebook.com/people/Saurabh-K-Sunny/100002708935041", 1, "fa", "fa-facebook", "px-2"], ["href", "#/", 1, "fa", "fa-codepen", "px-2"], ["href", "#/", 1, "fa", "fa-quora", "px-2"], [1, "row", "profile-subtitle"], [1, "col"], [1, "card-body"], [1, "card-title", "align-left", "outline-dashed"], ["href", "#", 1, "btn", "global-bg-color"], [1, "fa", "fa-play"], [1, "card-text", "pt-0"], [1, "fa", "fa-star", "fa-spin"]], template: function ProfileComponent_Template(rf, ctx) { if (rf & 1) {
+ProfileComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ProfileComponent, selectors: [["app-profile"]], decls: 34, vars: 0, consts: [[1, "justify-content-md-center"], [1, "row", "profile-title"], [1, "col-12", "col-md-2", "img-div"], ["src", "assets/profile.svg", 1, "img-fluid", "rounded", "img-style"], [1, "col-12", "col-md-10"], [1, "card", "border-0"], [1, "card-body", "global-bg-color", "profile-detail"], [1, "card-title"], [1, "card-text", "tech-detail"], ["href", "https://www.linkedin.com/in/saurabhksunny/", "title", "linkedin/saurabhksunny/", 1, "fa", "fa-linkedin", "px-2"], ["href", "https://github.com/skyup259", "title", "github/skyup259", 1, "fa", "fa-github", "px-2"], ["href", "https://twitter.com/Kumar259Saurabh", "title", "twitter/Kumar259Saurabh", 1, "fa", "fa-twitter", "px-2"], ["href", "http://instagram.com/saurabh_ksunny?igshid=1lm6ej4rqui8i", "title", "instagram/saurabh_ksunny", 1, "fa", "fa-instagram", "px-2"], ["href", "https://www.facebook.com/people/Saurabh-K-Sunny/100002708935041", "title", "facebook/Saurabh-K-Sunny", 1, "fa", "fa-facebook", "px-2"], ["href", "mailto:saurabh.kumar259@gmail.com", "title", "gmailId/saurabh.kumar259", 1, "fa", "fa-envelope", "px-2"], ["href", "tel:7873175811", "title", "7873175811", 1, "fa", "fa-phone", "px-2"], ["href", "https://join.skype.com/invite/lncn40glQCtq", "title", "skype/saurabh.kumar787", 1, "fa", "fa-skype", "px-2"], [1, "row", "profile-subtitle"], [1, "col"], [1, "card-body"], [1, "card-title", "align-left", "outline-dashed"], ["href", "#", 1, "btn", "global-bg-color"], [1, "fa", "fa-play"], [1, "card-text", "pt-0"], [1, "fa", "fa-star", "fa-spin"]], template: function ProfileComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -955,29 +955,30 @@ ProfileComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](16, "a", 13);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](17, "a", 14);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](18, "a", 15);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](19, "a", 16);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](19, "div", 16);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "div", 17);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](21, "div", 18);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "h2", 19);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "a", 20);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](24, "h2");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](25, "i", 21);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](26, "whoami");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "div", 19);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "h2", 20);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](24, "a", 21);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](25, "h2");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](26, "i", 22);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](27, "whoami");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](27, "h4", 22);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](28, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](29, "I am Saurabh Kumar Sunny, a young creative mind from India");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](28, "h4", 23);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "p");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](30, "I am Saurabh Kumar Sunny, a young creative mind from India");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](30, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](31, "Scroll on to learn more about my creations and interests. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](32, "i", 23);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](31, "p");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](32, "Scroll on to learn more about my creations and interests. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](33, "i", 24);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
